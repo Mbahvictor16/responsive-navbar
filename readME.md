@@ -23,16 +23,18 @@ To use the responsive navbar in your project, follow these steps:
 1. Download the project files or clone the repository:
 ```
 
-git clone https://github.com/your-username/responsive-navbar.git
+git clone https://github.com/Mbahvictor16/responsive-navbar
 
-````
+```
 
 2. Include the necessary CSS and JavaScript files in your HTML document:
 
+```
+
 ```html
-<link rel="stylesheet" href="path/to/navbar.css">
+<link rel="stylesheet" href="path/to/navbar.css" />
 <script src="path/to/navbar.js"></script>
-````
+```
 
 3. Add the HTML markup for the navbar in your desired location:
 
@@ -42,11 +44,13 @@ git clone https://github.com/your-username/responsive-navbar.git
    </nav>
    ```
 
+````
+
 4. Customize the navbar's appearance and behavior by modifying the CSS and JavaScript files as needed.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/responsive-navbar).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Mbahvictor16/responsive-navbar).
 
 ## License
 
@@ -58,10 +62,11 @@ This project was inspired by the need for a responsive navigation solution for m
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [mbahvictor16@gmail.com](mailto:mbahvictor16@gmail.com).
 
 Happy coding!
 
 ```
 
 ```
+````
