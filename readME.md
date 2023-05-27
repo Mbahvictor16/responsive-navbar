@@ -37,7 +37,7 @@ git clone https://github.com/your-username/responsive-navbar.git
 3. Add the HTML markup for the navbar in your desired location:
 
    ```html
-   <nav class="navbar">
+   <nav>
      <!-- Navbar content goes here -->
    </nav>
    ```
